@@ -1,0 +1,4 @@
+# Enable to try with timescaledb:
+# embedded:
+#   postgresql:
+#     dockerImage: timescale/timescaledb:latest-pg10
